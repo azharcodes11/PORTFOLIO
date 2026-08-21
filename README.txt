@@ -1,0 +1,1 @@
+Open index.html in a browser. Keep profile.jpg, style.css and script.js in the same folder. Email and GitHub are already added; edit index.html to change them.
